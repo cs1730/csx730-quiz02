@@ -3,5 +3,5 @@
     .globl gcd
     .type gcd, @function
 gcd:
-    xorq %eax, %eax
+    xorl %eax, %eax
     
