@@ -66,8 +66,8 @@ sequence of instructions in your submission.
 1. Test your code. Test cases have already been provided in the `main.c` for your
    convenience.
 
-1. **Before 3:15 PM**, double check that your group member names are listed in `SUBMISSION.md`
-   as well as the piece of paper that your instructor has at the front of the room, then
+1. **Before 3:15 PM (or 11:55 for partial)**, double check that your group member names are listed in 
+   `SUBMISSION.md` as well as the piece of paper that your instructor has at the front of the room, then
    submit your quiz attempt using the `submit` command. From the parent directory:
    
    ```
